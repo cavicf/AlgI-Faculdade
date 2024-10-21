@@ -7,8 +7,8 @@
         "command": "gcc",            
         "args": [                    
           "-o", "main",              
-          "Pilha/main.c",                  
-          "Pilha/pilha.c"                    
+          "Pilha/labirinto.c",                  
+          "Pilha/labirintomain.c"                    
         ],
         "group": {
           "kind": "build",
