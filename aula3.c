@@ -75,8 +75,10 @@ int main(){
     }
 
 
-
     free(z);
     free(a);
+    
+
+
     return 0;
 }
