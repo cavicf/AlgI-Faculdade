@@ -60,7 +60,6 @@ int main(int argc, char *argv[]){
 
     for(i=0; i<tam; i++){
         c = string[i];
-        
         if(c == ' ' || c == '\n'){
             while(!pilhaVazia(a)){
                 string2[j] = desimpilha(a);
