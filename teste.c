@@ -8,17 +8,28 @@ int TTT (int x[], int n) {
 }
 
 int main(){
-     int n, r, i;
-
+    int n, r, i;
+    r = 0;
     scanf("%d", &n);
-    int x[n];
 
-    for(i=0; i<n;i++){
+    int *x = (int *)malloc(sizeof(int)*n+1);
+    
+    x[0] = 0;
+
+    for(i=1; i<n+1;i++){
         scanf("%d", &x[i]);
     }
 
-    r = TTT(x, n-1);
+    r = TTT(x, n);
     printf("%d", r);
 
     return 0;
 }
+
+/*
+    5
+    0  1  2  3  4  5
+    0  12 5  3  1  10 = 31
+
+
+*/
