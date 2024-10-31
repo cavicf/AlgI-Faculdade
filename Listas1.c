@@ -16,8 +16,8 @@
 
 typedef struct celula celula;
 struct celula {
-   int conteudo;
-   celula *prox;
+    int conteudo;
+    celula *prox;
 }; 
 
 //-------------------------------------------------------------------------
