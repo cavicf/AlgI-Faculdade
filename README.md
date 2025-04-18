@@ -1,6 +1,6 @@
-# 📊 Algoritmos e Estrutura de Dados I
+# 📊 Algoritmos e Programação I
 
-Este repositório é dedicado às aulas, exercícios práticos e trabalhos desenvolvidos durante a disciplina **Algoritmos e Estrutura de Dados I**, ministrada pelo professor **Pedro Hokama** na **Universidade Federal de Itajubá (UNIFEI)**.
+Este repositório é dedicado às aulas, exercícios práticos e trabalhos desenvolvidos durante a disciplina **Algoritmos e Programação I**, ministrada pelo professor **Pedro Hokama** na **Universidade Federal de Itajubá (UNIFEI)**.
 
 ---
 
